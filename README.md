@@ -24,6 +24,7 @@ Call the letterFinder and pass it as its first argument as the string "test" and
 
 Your output should be the following:
 ~~~
+Found the t at 0
 ---No match found at 1
 ---No match found at 2
 Found the t at 3
